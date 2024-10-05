@@ -1,0 +1,57 @@
+
+.Logo {
+    background-image: url(../assets/pictures/ISEP-voile-team.jpeg);
+    width : 1400px;
+    height : 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .se_co {
+
+    padding-left : 700;
+    top : 60;
+
+  }
+
+.Taille{
+  font-size: 20px;
+}
+
+.Mail{
+  padding-top : 70;
+}
+
+.Mdp{
+  padding-top : 30;
+
+}
+  .H1{
+    padding-top : 15;
+    color:#271ea1;
+    font-size: 30px;
+  }
+  
+.Seconnecter{
+  background-color:#271ea1;
+  color:#ffffff;
+  border-radius: 8px;
+  height: 40;
+  top: 30;
+  width: 410px;
+  font-size: 20px;
+}
+
+  .se_co {
+    position: fixed;
+    
+    left: 74.7%;
+    background-color: #ffffff;
+    width: 450px; /* Ajustez la largeur selon vos besoins */
+    height : 800px;
+    padding: 20px;
+    border-radius: 8px;
+    z-index: 9999; /* Assurez-vous que le modal est au-dessus de tout le reste */
+    
+  }
